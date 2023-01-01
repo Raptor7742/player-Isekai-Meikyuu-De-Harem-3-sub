@@ -25,7 +25,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Isekai Meikyuu De Harem - épisode 1 VOSTFR",
+      title: "Isekai Meikyuu De Harem - épisode 3 VOSTFR",
       description: "Vous regardez",
       image: "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2022/03/isekaimeikyuudeharemwo_keyvisual-1-e1648179739159.jpg?resize=696%2C391&ssl=1",
       sources: [
@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://m115.syncusercontent.com/mfs-60:1528f339481ce2d8f853bf5b9b71a2ed=============================/p/Isekai.Meikyuu.De.Harem.Wo.S01e03.Unrated.Vostfr.1080P.Webrip.french-anime.com.mp4?allowdd=0&datakey=D6tTo9lgKikCytFjFgTIcPGb8fE8J7iucYf3cr/ZAIATeYo3OiOTzIX37BRzwXpPWeptxUjAr9FW4i80sDHm4bL1CPFWfz1uiLNLwPVXA3p5KJOA21wn7KTFo7t75jFjRde2cLBR95ontHzYhbXYo1xAfnYoIgE5bJLOPHAiH8NieAQ1fgqLway7AOpQ+ADwsBA2JqTOUmb40v9TIDSAdf0IG5CdsG9O/vZAi/VIvWohe1pXxG8Xx7e02XVGGvEaqX5bfbgInn/qDr0Z0V4U357az/iRG4KzbwuKJG82rtxlk+1z/mnhvFmTN1cQHUIZMLslwWgeycD8tDc/wwdlAw&engine=ln-2.3.7.3&errurl=UbJk4JCvBCy2n5Dp7KRA5eY9wsOMXgTsiN4Zh3G6IbF+FgVt7MHorBhJd/7wPx03cBGdh+toHLlEnjM2NZeNwXbHLp1m5VFTHL+8r7LYc8CLuFAS3kVjCM17p/Z2INPiGZvS47y2tKaXuhk24zyqIW6xPthOOZVazXkd2FDFgakNlIu6HS9VQDswbOeF5Nr1j4xmQQ5n5z+m1WCBLfUmIU9GRomxhMJlxAmZqp+QDri4QrudAKqAq5gQFhHOrjYjJUvNnA6pSJXDC8bmTZkY49kMaFuruL2/wHNq9UVldeL4gRl13XTPyawZwKZf5V7d9/7HqdTCO9Rsx1yiHZaGqA==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iSXNla2FpLk1laWt5dXUuRGUuSGFyZW0uV28uUzAxZTAzLlVucmF0ZWQuVm9zdGZyLjEwODBQLldlYnJpcC5mcmVuY2gtYW5pbWUuY29tLm1wNCI7ZmlsZW5hbWUqPVVURi04JydJc2VrYWkuTWVpa3l1dS5EZS5IYXJlbS5Xby5TMDFlMDMuVW5yYXRlZC5Wb3N0ZnIuMTA4MFAuV2VicmlwLmZyZW5jaC1hbmltZS5jb20ubXA0Ow&ipaddress=1458994159&linkcachekey=a11ce5290&linkoid=652350000&mode=101&sharelink_id=8937710530000&timestamp=1672596833790&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=424f9de729bf31478ba76d51d67a720facd0db67&cachekey=60:1528f339481ce2d8f853bf5b9b71a2ed=============================",
           label: "720p"
         },
         {
